@@ -1,0 +1,12 @@
+C:\Users\Nihil\Desktop\buildingProject\ApartmentBuilding\bin\Debug\ApartmentBuilding.exe.config
+C:\Users\Nihil\Desktop\buildingProject\ApartmentBuilding\bin\Debug\ApartmentBuilding.exe
+C:\Users\Nihil\Desktop\buildingProject\ApartmentBuilding\bin\Debug\ApartmentBuilding.pdb
+C:\Users\Nihil\Desktop\buildingProject\ApartmentBuilding\bin\Debug\EntityFramework.dll
+C:\Users\Nihil\Desktop\buildingProject\ApartmentBuilding\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nihil\Desktop\buildingProject\ApartmentBuilding\bin\Debug\EntityFramework.xml
+C:\Users\Nihil\Desktop\buildingProject\ApartmentBuilding\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nihil\Desktop\buildingProject\ApartmentBuilding\obj\Debug\ApartmentBuilding.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\buildingProject\ApartmentBuilding\obj\Debug\ApartmentBuilding.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\buildingProject\ApartmentBuilding\obj\Debug\ApartmentBuilding.csproj.CopyComplete
+C:\Users\Nihil\Desktop\buildingProject\ApartmentBuilding\obj\Debug\ApartmentBuilding.exe
+C:\Users\Nihil\Desktop\buildingProject\ApartmentBuilding\obj\Debug\ApartmentBuilding.pdb
